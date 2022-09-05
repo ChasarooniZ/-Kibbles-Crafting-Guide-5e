@@ -1,8 +1,8 @@
 {
   "id": "module",
-  "title": "New Module",
-  "description": "",
-  "version": "This is auto replaced",
+  "title": "Kibble's Crafting Guide 5e",
+  "description": "Implementation of items from Kibble's Crafting Guide for 5e, for crafting capabilities, you'll need Ripper's Crafting Module",
+  "version": "0.1",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
   "compatibility": {
@@ -12,9 +12,8 @@
   },
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "cadowtin",
+      "url": "https://github.com/cadowtin",
     }
   ],
   "relationships": {
